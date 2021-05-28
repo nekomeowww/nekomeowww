@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nekomeowww/nekomeowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#stats" align="center">
+    <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
+</a>
+<br />
 
-Here are some ideas to get you started:
+<br />
+<a href="#stats" align="center">
+    <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww" />
+</a>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=nekomeowww)](https://github.com/anuraghazra/github-readme-stats)
