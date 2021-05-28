@@ -10,7 +10,3 @@
     <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww" />
 </a>
 <br />
-
-<br />
-
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=nekomeowww)](https://github.com/anuraghazra/github-readme-stats)
