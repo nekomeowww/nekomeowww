@@ -8,6 +8,6 @@
 
 <br />
 <a href="#stats" align="center">
-    <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww" />
+    <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww&exclude_repo=nekomeowww.github.io,hexo-plugin-matataki-example,hexo-plugin-matataki-showcase" />
 </a>
 <br />
