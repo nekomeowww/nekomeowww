@@ -8,6 +8,6 @@
 
 <br />
 <a href="#stats" align="center">
-    <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww&hide=html" />
+    <img align="center" alt="AyakaNeko's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=nekomeowww&hide=html&langs_count=8" />
 </a>
 <br />
