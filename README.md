@@ -15,6 +15,10 @@
   </picture>
 </a>
 
+### 赞助我 ❤️
+
+[![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.net/a/ayakaneko)
+
 ## Things I work with
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
