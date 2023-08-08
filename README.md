@@ -1,5 +1,4 @@
-### 你好喵 🐱
-#### Nya
+### 你好喵 Hello Nya 🐱
 
 <a href="#stats" align="center">
   <picture>
@@ -11,23 +10,23 @@
       srcset="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nekomeowww&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=radical&bg_color=00000000" />
   </picture>
 </a>
 
-### 赞助我 ❤️
+### 赞助我 Sponsor me ❤️
 
 [![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.net/a/ayakaneko)
 
-## Languages I use
+## 我使用的语言和框架 Languages & Frameworks I use
 
-[![Languages I use](https://skillicons.dev/icons?i=go,wasm,ts,vue,graphql,js,lua,rust)](https://skillicons.dev)
+[![Languages & Frameworks I Use](https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust)](https://skillicons.dev)
 
-## Stacks I work with
+## 我使用的技术栈 Stacks I work with
 
-[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,nginx,linux,nodejs,nuxtjs,vite,tailwind,windicss,prisma,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,postman,figma,netlify,cloudflare,vscode)](https://skillicons.dev)
+[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,nginx,linux,nodejs,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,postman,figma,netlify,cloudflare,vscode)](https://skillicons.dev)
 
-## Other things I work with
+## 以及其他的一些我使用的玩意儿 Other things I work with
 
 ![阿里云](https://img.shields.io/badge/-阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -42,7 +41,7 @@
 ![Jira Software](https://img.shields.io/badge/-Jira_Software-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white")
 
-## Highlights
+## 有趣的项目 Highlights
 
 |Projects|Stars|Forks|Issues Closed|Pull Requests Closed|
 |:---|:---|:---|:---|:---|
