@@ -25,11 +25,7 @@
 
 ## Stacks I work with
 
-[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,nginx,linux,nodejs,nuxtjs,vite,tailwind,windicss,prisma,azure,aws)](https://skillicons.dev)
-
-## Tools I use
-
-[![Tools I use](https://skillicons.dev/icons?i=grafana,prometheus,sentry,docker,kubernetes,githubactions,git,postman,figma,netlify,cloudflare,vscode)](https://skillicons.dev)
+[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,nginx,linux,nodejs,nuxtjs,vite,tailwind,windicss,prisma,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,postman,figma,netlify,cloudflare,vscode)](https://skillicons.dev)
 
 ## Other things I work with
 
