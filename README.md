@@ -20,7 +20,10 @@
 
 ## 我使用的语言和框架 Languages & Frameworks I use
 
-[![Languages & Frameworks I Use](https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust)](https://skillicons.dev)
+<picture>
+  <source media="(min-width: 648px)" srcset="https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust&perline=3">
+  <img alt="Languages & Frameworks I Use" src="https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust">
+</picture>
 
 ## 我使用的技术栈 Stacks I work with
 
