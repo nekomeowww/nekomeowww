@@ -21,7 +21,7 @@
 ## 我使用的语言和框架 Languages & Frameworks I use
 
 <picture>
-  <source media="(min-width: 648px)" srcset="https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust&perline=3">
+  <source media="(max-width: 640px)" srcset="https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust&perline=5">
   <img alt="Languages & Frameworks I Use" src="https://skillicons.dev/icons?i=go,wasm,ts,vue,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua,rust">
 </picture>
 
