@@ -20,11 +20,11 @@
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,wasm,ts,vue,python,rust,nuxtjs,vite,tailwind,windicss,prisma,graphql,js,lua)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,wasm,ts,vue,vite,python,rust,md,pytorch,nuxtjs,tailwind,windicss,nestjs,prisma,graphql,rollupjs,js,lua,css,v,zig)
 
 #### 我使用的技术栈 Stacks I work with
 
-[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,nginx,linux,nodejs,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,postman,figma,netlify,cloudflare,vscode)](https://skillicons.dev)
+[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,elasticsearch,kafka,nginx,linux,nodejs,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,github,gitlab,postman,figma,netlify,cloudflare,vscode,bash)](https://skillicons.dev)
 
 #### 以及其他的一些我使用的玩意儿 Other things I work with
 
