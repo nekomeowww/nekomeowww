@@ -14,6 +14,20 @@
   </picture>
 </a>
 
+<a href="#stats" align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=nekomeowww&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=nekomeowww&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nekomeowww&theme=transparent&hide_border=true" />
+  </picture>
+</a>
+
 #### 赞助我 Sponsor me ❤️
 
 [![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.net/a/ayakaneko)
