@@ -30,7 +30,7 @@
 
 #### 赞助我 Sponsor me ❤️
 
-[![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.net/a/ayakaneko)
+[![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.com/a/ayakaneko)
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
