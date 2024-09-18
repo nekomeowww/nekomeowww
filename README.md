@@ -55,6 +55,14 @@
 ![Jira Software](https://img.shields.io/badge/-Jira_Software-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white")
 
+
+#### 最近的公开分享 Public sessions shared
+
+| KubeCon HK 2024 - 2024.08.23 | KubeCon HK 2024 - 2024.08.21 |
+| --- | --- |
+| ![](https://i.ytimg.com/vi/XWjZQfSXKDg/hq720.jpg) | ![](https://i.ytimg.com/vi/SlRMvDUY7lI/hq720.jpg) |
+| Links: [Slides](https://talks.ayaka.io/talks/nekoayaka/2024-08-23-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=XWjZQfSXKDg) | Links [Slides](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=SlRMvDUY7lI) |
+
 #### 有趣的项目 Highlights
 
 |Projects|Stars|Forks|Issues Closed|Pull Requests Closed|
