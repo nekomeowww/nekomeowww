@@ -61,7 +61,7 @@
 | KubeCon HK 2024 - 2024.08.23 | KubeCon HK 2024 - 2024.08.21 |
 | --- | --- |
 | ![](https://i.ytimg.com/vi/XWjZQfSXKDg/hq720.jpg) | ![](https://i.ytimg.com/vi/SlRMvDUY7lI/hq720.jpg) |
-| Links: [Slides](https://talks.ayaka.io/talks/nekoayaka/2024-08-23-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=XWjZQfSXKDg) | Links [Slides](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=SlRMvDUY7lI) |
+| Links: [Slides](https://talks.ayaka.io/nekoayaka/2024-08-23-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=XWjZQfSXKDg) | Links [Slides](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=SlRMvDUY7lI) |
 
 #### 有趣的项目 Highlights
 
