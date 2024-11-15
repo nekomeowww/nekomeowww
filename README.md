@@ -36,25 +36,6 @@
 
 ![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,wasm,ts,vue,vite,python,rust,md,pytorch,nuxtjs,tailwind,windicss,nestjs,prisma,graphql,rollupjs,js,lua,css,v,zig)
 
-#### 我使用的技术栈 Stacks I work with
-
-[![Languages I use](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,mongodb,redis,rabbitmq,elasticsearch,kafka,nginx,linux,nodejs,azure,aws,grafana,prometheus,sentry,docker,kubernetes,githubactions,git,github,gitlab,postman,figma,netlify,cloudflare,vscode,bash)](https://skillicons.dev)
-
-#### 以及其他的一些我使用的玩意儿 Other things I work with
-
-![阿里云](https://img.shields.io/badge/-阿里云-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white")
-![Auth0](https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white")
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
-![Codecov](https://img.shields.io/badge/-Codecov-F01F7A?style=flat-square&logo=codecov&logoColor=white)
-![Datagrip](https://img.shields.io/badge/-DataGrip-000000?style=flat-square&logo=datagrip&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Jira Software](https://img.shields.io/badge/-Jira_Software-0052CC?style=flat-square&logo=jirasoftware&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-GPTs-412991?style=flat-square&logo=openai&logoColor=white")
-
 
 #### 最近的公开分享 Public sessions shared
 
