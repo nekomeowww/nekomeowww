@@ -34,7 +34,7 @@
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
-![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,ts,vue,python,rust,md,js,lua,css,zig,wasm,vite,pytorch,nuxtjs,tailwind,nestjs,prisma,graphql,rollupjs)
+![Languages & Frameworks I use](https://skillicons.dev/icons?i=go,ts,vue,python,rust,lua,zig,wasm,vite,pytorch,nuxtjs,tailwind,nestjs,prisma,graphql,rollupjs)
 
 
 #### 最近的公开分享 Public sessions shared
