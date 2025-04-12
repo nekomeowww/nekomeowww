@@ -25,6 +25,8 @@
 
 #### 最近的公开分享 Public sessions shared
 
+> Full list open sourced in https://github.com/nekomeowww/talks
+
 | DaoCloud Share - 2024.11.14 | KubeCon HK 2024 - 2024.08.23 | KubeCon HK 2024 - 2024.08.21 |
 | --- | --- | --- |
 | ![](https://github.com/user-attachments/assets/e82484ce-58d1-4e9d-a0dd-2c9c616b0da5) | ![](https://i.ytimg.com/vi/XWjZQfSXKDg/hq720.jpg) | ![](https://i.ytimg.com/vi/SlRMvDUY7lI/hq720.jpg) |
