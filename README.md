@@ -14,6 +14,9 @@
   </picture>
 </a>
 
+> [!TIP]  
+> I do provide consulting and outsourcing services for enterprises and startups in AI infra & AI multi-modal, AI interactive, and Multi-Agent fields, if you are interested, please contact me at [neko@ayaka.moe](mailto:neko@ayaka.moe)
+
 #### 赞助我 Sponsor me ❤️
 
 [![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.com/a/ayakaneko)
