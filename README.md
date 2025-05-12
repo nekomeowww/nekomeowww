@@ -30,7 +30,7 @@
 
 > Full list open sourced in https://github.com/nekomeowww/talks
 
-| DaoCloud Share - 2024.11.14 | KubeCon HK 2024 - 2024.08.23 | KubeCon HK 2024 - 2024.08.21 |
+| 2025.05.10 @ Hangzhou Demo Day | 2025.04.12 @ Shanghai 模速空间 | 2025.03.13 @ Shanghai DaoCloud |
 | --- | --- | --- |
 | ![](https://github.com/user-attachments/assets/1486cc4a-9f14-42e4-9720-037736a6e0fe) | ![](https://github.com/user-attachments/assets/5cc04015-681d-4f6e-a0d2-91fd65dd2e3f) | ![](https://github.com/user-attachments/assets/7dacca02-f6bd-40b6-aa7f-9d409fc7ce42) |
 | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-05-10-airi-how-we-recreated-it/) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-04-13-what-is-mcp-and-how-it-helps/) | Links [Slides](https://talks.ayaka.io/nekoayaka/2025-03-13-deep-dive-llm-deepseek-and-how/) |
