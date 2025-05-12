@@ -32,8 +32,8 @@
 
 | DaoCloud Share - 2024.11.14 | KubeCon HK 2024 - 2024.08.23 | KubeCon HK 2024 - 2024.08.21 |
 | --- | --- | --- |
-| ![](https://github.com/user-attachments/assets/e82484ce-58d1-4e9d-a0dd-2c9c616b0da5) | ![](https://i.ytimg.com/vi/XWjZQfSXKDg/hq720.jpg) | ![](https://i.ytimg.com/vi/SlRMvDUY7lI/hq720.jpg) |
-| Links: [Slides](https://talks.ayaka.io/nekoayaka/2024-11-14-deep-dive-llm-era-of-post-training/) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2024-08-23-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=XWjZQfSXKDg) | Links [Slides](https://baizeai.github.io/talks/2024-08-21-kubecon-hk/) - [Watch on YouTube](https://www.youtube.com/watch?v=SlRMvDUY7lI) |
+| ![](https://github.com/user-attachments/assets/1486cc4a-9f14-42e4-9720-037736a6e0fe) | ![](https://github.com/user-attachments/assets/5cc04015-681d-4f6e-a0d2-91fd65dd2e3f) | ![](https://github.com/user-attachments/assets/7dacca02-f6bd-40b6-aa7f-9d409fc7ce42) |
+| Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-05-10-airi-how-we-recreated-it/) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-04-13-what-is-mcp-and-how-it-helps/) | Links [Slides](https://talks.ayaka.io/nekoayaka/2025-03-13-deep-dive-llm-deepseek-and-how/) |
 
 #### 有趣的项目 Highlights
 
