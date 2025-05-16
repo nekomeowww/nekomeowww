@@ -1,4 +1,4 @@
-#### 你好喵 Hello Nya 🐱
+#### 你好 Hello 🐱
 
 <a href="#stats" align="center">
   <picture>
@@ -16,10 +16,6 @@
 
 > [!TIP]  
 > I do provide consulting and outsourcing services for enterprises and startups in AI infra & AI multi-modal, AI interactive, and Multi-Agent fields, if you are interested, please contact me at [neko@ayaka.moe](mailto:neko@ayaka.moe)
-
-#### 赞助我 Sponsor me ❤️
-
-[![](https://img.shields.io/badge/爱发电-赞助_Neko_Ayaka-blueviolet.svg?style=flat-square)](https://afdian.com/a/ayakaneko)
 
 #### 我使用的语言和框架 Languages & Frameworks I use
 
