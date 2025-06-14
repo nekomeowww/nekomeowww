@@ -26,10 +26,13 @@
 
 > Full list open sourced in https://github.com/nekomeowww/talks
 
-| 2025.05.10 @ Hangzhou Demo Day | 2025.04.12 @ Shanghai 模速空间 | 2025.03.13 @ Shanghai DaoCloud |
+| ![]() | 2025.06.11 @ Hong Kong |
+| Taming Dependency Chaos for LLM in K8S (🇬🇧) | [Slides](https://baizeai.github.io/talks/2025-06-11-kubecon-hk/) |
+
+| 2025.06.11 @ Hong Kong KubeCon | 2025.05.10 @ Hangzhou Demo Day | 2025.04.12 @ Shanghai 模速空间 |
 | --- | --- | --- |
-| ![](https://github.com/user-attachments/assets/1486cc4a-9f14-42e4-9720-037736a6e0fe) | ![](https://github.com/user-attachments/assets/5cc04015-681d-4f6e-a0d2-91fd65dd2e3f) | ![](https://github.com/user-attachments/assets/7dacca02-f6bd-40b6-aa7f-9d409fc7ce42) |
-| Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-05-10-airi-how-we-recreated-it/) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-04-13-what-is-mcp-and-how-it-helps/) | Links [Slides](https://talks.ayaka.io/nekoayaka/2025-03-13-deep-dive-llm-deepseek-and-how/) |
+| ![](https://github.com/user-attachments/assets/bd7b1e12-ddfe-4539-8102-6093db1dd9d2) | ![](https://github.com/user-attachments/assets/1486cc4a-9f14-42e4-9720-037736a6e0fe) | ![](https://github.com/user-attachments/assets/5cc04015-681d-4f6e-a0d2-91fd65dd2e3f) | 
+| Links: [Slides](https://baizeai.github.io/talks/2025-06-11-kubecon-hk/#/1) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-05-10-airi-how-we-recreated-it/) | Links: [Slides](https://talks.ayaka.io/nekoayaka/2025-04-13-what-is-mcp-and-how-it-helps/) |
 
 #### 有趣的项目 Highlights
 
